@@ -8,3 +8,8 @@ Lamport, Leslie. "Time, clocks, and the ordering of events in a distributed syst
 
 ## Distributed File System (AFS)
 Howard, John H., et al. "Scale and performance in a distributed file system." ACM Transactions on Computer Systems (TOCS) 6.1 (1988): 51-81. 
+
+## Parallel Data Processing (MapReduce & Spark)
+Dean, Jeffrey, and Sanjay Ghemawat. "MapReduce: simplified data processing on large clusters." Communications of the ACM 51.1 (2008): 107-113. APA	
+
+Zaharia, Matei, et al. "Spark: cluster computing with working sets." HotCloud 10 (2010): 10-10.
