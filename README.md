@@ -13,3 +13,6 @@ Howard, John H., et al. "Scale and performance in a distributed file system." AC
 Dean, Jeffrey, and Sanjay Ghemawat. "MapReduce: simplified data processing on large clusters." Communications of the ACM 51.1 (2008): 107-113. APA	
 
 Zaharia, Matei, et al. "Spark: cluster computing with working sets." HotCloud 10 (2010): 10-10.
+
+## Distributed Databases (Spanner)
+Corbett, James C., et al. "Spanner: Google’s globally distributed database." ACM Transactions on Computer Systems (TOCS) 31.3 (2013): 8. APA	
