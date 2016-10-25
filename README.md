@@ -1,5 +1,8 @@
 # computer-system-readings
 
+## RPC
+Birrell, Andrew D., and Bruce Jay Nelson. "Implementing remote procedure calls." ACM Transactions on Computer Systems (TOCS) 2.1 (1984): 39-59. APA	
+
 ## Multi-threading 
 Hauser, Carl, et al. "Using threads in interactive systems: A case study." ACM SIGOPS Operating Systems Review. Vol. 27. No. 5. ACM, 1994. 
 
