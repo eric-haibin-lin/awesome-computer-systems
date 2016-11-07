@@ -19,3 +19,6 @@ Zaharia, Matei, et al. "Spark: cluster computing with working sets." HotCloud 10
 
 ## Distributed Databases (Spanner)
 Corbett, James C., et al. "Spanner: Google’s globally distributed database." ACM Transactions on Computer Systems (TOCS) 31.3 (2013): 8. APA	
+
+## Kernels 
+Necula, George C., and Peter Lee. "Safe kernel extensions without run-time checking." SIGOPS Operating Systems Review 30 (1996): 229-244. APA	
